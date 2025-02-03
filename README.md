@@ -1,6 +1,7 @@
 # YourCarYourWay Project
 
 Welcome to the **YourCarYourWay** project! This repository contains both the frontend and backend components of the application.
+The application also leverages real-time communication through WebSockets to keep users updated on the status of their vehicles.
 
 ## Project Structure
 
